@@ -1,7 +1,7 @@
 # Diabetes Prediction Machine Learning Project
 
 ## Description
-This project marks my initial exploration into the field of machine learning. My objective was to develop a predictive model capable of assessing an individual's likelihood of having diabetes based on various health metrics. Utilizing a dataset containing diagnostic measurements, I engaged in data exploration, trained a classification model, and evaluated its performance. This endeavor provided valuable insights into the end-to-end process of constructing a machine learning model, from data preparation and preprocessing to model evaluation and practical application.
+This project marks my initial exploration into the field of machine learning. My objective was to develop a predictive model capable of assessing an individual's likelihood of having diabetes based on various health metrics. Utilizing a dataset containing diagnostic measurements, I engaged in data exploration, trained a classification model, and evaluated its performance. This project provided valuable insights into the end-to-end process of constructing a machine learning model, from data preparation and preprocessing to model evaluation and practical application.
 
 ## Dataset Origin
 The dataset employed in this project is the [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database). Originating from the National Institute of Diabetes and Digestive and Kidney Diseases, this dataset comprises health information pertaining to female patients of Pima Indian heritage, aged 21 and older. I selected this dataset as it is a widely recognized benchmark for binary classification tasks and offered an excellent opportunity to practice fundamental machine learning techniques.
