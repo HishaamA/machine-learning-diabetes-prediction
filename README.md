@@ -1,4 +1,4 @@
-# Diabetes Prediction Project
+# Diabetes Prediction Machine Learning Project
 
 ## Description
 This project marks my initial exploration into the field of machine learning. My objective was to develop a predictive model capable of assessing an individual's likelihood of having diabetes based on various health metrics. Utilizing a dataset containing diagnostic measurements, I engaged in data exploration, trained a classification model, and evaluated its performance. This endeavor provided valuable insights into the end-to-end process of constructing a machine learning model, from data preparation and preprocessing to model evaluation and practical application.
